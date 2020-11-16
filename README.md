@@ -1,1 +1,1 @@
-# kafka-json-producer
+# kafka-log4j-producer
